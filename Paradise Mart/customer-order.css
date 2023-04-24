@@ -1,0 +1,281 @@
+.div25 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  text-align: left;
+}
+.customer-order-child,
+.customer-order-inner,
+.customer-order-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.customer-order-inner,
+.customer-order-item {
+  top: 42.5px;
+}
+.customer-order-inner {
+  top: 37.5px;
+}
+.paradise-mart8 {
+  position: absolute;
+  top: 97px;
+  left: calc(50% - 151.5px);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.products-information {
+  position: absolute;
+  top: 134px;
+  left: 98px;
+  color: var(--color-peru);
+  display: inline-block;
+  width: 161px;
+}
+.customer-order-child1,
+.istockphoto-1029895828-612x612-icon8 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.customer-order-child1 {
+  top: 190px;
+  left: 35px;
+  width: 58px;
+  height: 59px;
+}
+.customer-order-child2,
+.customer-order-child3,
+.customer-order-child4 {
+  position: absolute;
+  top: 293px;
+  left: 110px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.customer-order-child3,
+.customer-order-child4 {
+  top: 404px;
+  left: 103px;
+}
+.customer-order-child4 {
+  top: 509px;
+  left: 95px;
+}
+.products {
+  position: absolute;
+  top: 219px;
+  left: 110px;
+}
+.customer-order-child5 {
+  position: absolute;
+  top: 353px;
+  left: 168px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 77px;
+  height: 23px;
+  cursor: pointer;
+}
+.customer-order-child10,
+.customer-order-child6,
+.customer-order-child7,
+.customer-order-child8,
+.customer-order-child9 {
+  position: absolute;
+  top: 479px;
+  left: 167px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 77px;
+  height: 23px;
+}
+.customer-order-child10,
+.customer-order-child7,
+.customer-order-child8,
+.customer-order-child9 {
+  left: 259px;
+}
+.customer-order-child10,
+.customer-order-child8,
+.customer-order-child9 {
+  top: 573px;
+  left: 170px;
+}
+.customer-order-child10,
+.customer-order-child9 {
+  top: 575px;
+  left: 263px;
+}
+.customer-order-child10 {
+  top: 353px;
+}
+.cancel {
+  position: absolute;
+  top: 356px;
+  left: 275px;
+  color: var(--color-white);
+}
+.shampoo2 {
+  position: absolute;
+  top: 320px;
+  left: 170px;
+}
+.face-cream,
+.hair-jel {
+  position: absolute;
+  top: 434px;
+  left: 183px;
+}
+.face-cream {
+  top: 530px;
+  left: 168px;
+}
+.cancel1,
+.cancel2,
+.order,
+.order1,
+.order2 {
+  position: absolute;
+  top: 353px;
+  left: 188px;
+  color: var(--color-white);
+}
+.cancel1,
+.cancel2,
+.order1,
+.order2 {
+  top: 482px;
+}
+.cancel1,
+.cancel2,
+.order2 {
+  left: 275px;
+}
+.cancel2,
+.order2 {
+  top: 575px;
+  left: 190px;
+}
+.cancel2 {
+  top: 580px;
+  left: 280px;
+}
+.vector-icon32 {
+  position: absolute;
+  height: 2.85%;
+  width: 5.87%;
+  top: 94.9%;
+  right: 10.13%;
+  bottom: 2.25%;
+  left: 84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.customer-order-child11 {
+  position: absolute;
+  top: 75px;
+  left: 258px;
+  width: 28px;
+  height: 27px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.customer-order-child12 {
+  position: absolute;
+  top: 96px;
+  left: 277px;
+  width: 12px;
+  height: 11px;
+}
+.vector-icon33,
+.vector-icon34,
+.vector-icon35 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon33 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94.15%;
+  right: 77.28%;
+  bottom: 2.22%;
+  left: 16.27%;
+  cursor: pointer;
+}
+.vector-icon34,
+.vector-icon35 {
+  height: 3.29%;
+  width: 6.67%;
+  top: 11.39%;
+  right: 13.07%;
+  bottom: 85.31%;
+  left: 80.27%;
+}
+.vector-icon35 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94.15%;
+  right: 39.67%;
+  bottom: 2.22%;
+  left: 53.87%;
+  cursor: pointer;
+}
+.ml1,
+.ml2 {
+  position: absolute;
+  top: 323px;
+  left: 245px;
+}
+.ml2 {
+  top: 434px;
+  left: 252px;
+}
+.ml3,
+.tk1,
+.tk2,
+.tk3 {
+  position: absolute;
+  top: 530px;
+  left: 267px;
+}
+.tk1,
+.tk2,
+.tk3 {
+  top: 323px;
+  left: 301px;
+}
+.tk2,
+.tk3 {
+  top: 434px;
+  left: 307px;
+}
+.tk3 {
+  top: 530px;
+  left: 315px;
+}
+.customer-order {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

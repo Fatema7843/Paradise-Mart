@@ -1,0 +1,208 @@
+.div5 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  text-align: left;
+}
+.customers-detail-child,
+.customers-detail-inner,
+.customers-detail-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.customers-detail-inner,
+.customers-detail-item {
+  top: 42.5px;
+}
+.customers-detail-inner {
+  top: 37.5px;
+}
+.paradise-mart5 {
+  position: absolute;
+  top: 104px;
+  left: calc(50% - 147.5px);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.istockphoto-1029895828-612x612-icon5 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.customer-3 {
+  position: absolute;
+  top: 241px;
+  left: 146px;
+}
+.customers-detail-child1 {
+  position: absolute;
+  top: 217px;
+  left: 45px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.t-shirt {
+  top: 441px;
+  left: 49px;
+}
+.size,
+.t-shirt,
+.type,
+.xl {
+  position: absolute;
+}
+.type {
+  top: 307px;
+  left: 61px;
+  color: var(--color-peru);
+}
+.size,
+.xl {
+  top: 442px;
+  left: 138px;
+}
+.size {
+  top: 307px;
+  left: 134px;
+  color: var(--color-peru);
+}
+.black,
+.info {
+  position: absolute;
+  top: 442px;
+  left: 196px;
+}
+.info {
+  top: 307px;
+  left: 210px;
+  color: var(--color-peru);
+}
+.date,
+.div6,
+.watch {
+  position: absolute;
+  top: 396px;
+  left: 198px;
+}
+.date,
+.div6 {
+  top: 445px;
+  left: 271px;
+}
+.date {
+  top: 307px;
+  left: 294px;
+  color: var(--color-peru);
+}
+.vector-icon17 {
+  position: absolute;
+  height: 2.85%;
+  width: 5.87%;
+  top: 93.4%;
+  right: 10.13%;
+  bottom: 3.75%;
+  left: 84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.customers-detail-child2 {
+  position: absolute;
+  top: 80px;
+  left: 266px;
+  width: 28px;
+  height: 27px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vector-icon18 {
+  position: absolute;
+  height: 3.63%;
+  width: 6.46%;
+  top: 93.4%;
+  right: 84.21%;
+  bottom: 2.97%;
+  left: 9.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.customers-detail1 {
+  position: absolute;
+  top: 153px;
+  left: 103px;
+  color: var(--color-peru);
+  display: inline-block;
+  width: 161px;
+}
+.shampoo1 {
+  position: absolute;
+  top: 352px;
+  left: 48px;
+}
+.div7,
+.electronics {
+  position: absolute;
+  top: 393px;
+  left: 43px;
+}
+.div7 {
+  top: 353px;
+  left: 139px;
+}
+.div10,
+.div8,
+.div9 {
+  position: absolute;
+  top: 396px;
+  left: 140px;
+}
+.div10,
+.div9 {
+  top: 353px;
+  left: 215px;
+}
+.div10 {
+  left: 273px;
+}
+.div11,
+.vector-icon19 {
+  position: absolute;
+  top: 396px;
+  left: 271px;
+}
+.vector-icon19 {
+  height: 3.29%;
+  width: 6.67%;
+  top: 12.29%;
+  right: 9.07%;
+  bottom: 84.41%;
+  left: 84.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.customers-detail {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

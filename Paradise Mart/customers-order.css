@@ -1,0 +1,259 @@
+.div41 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  text-align: left;
+}
+.customers-order-child,
+.customers-order-inner,
+.customers-order-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.customers-order-inner,
+.customers-order-item {
+  top: 42.5px;
+}
+.customers-order-inner {
+  top: 37.5px;
+}
+.paradise-mart11 {
+  position: absolute;
+  top: 112px;
+  left: calc(50% - 143.5px);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.istockphoto-1029895828-612x612-icon11 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.customers-order-child1,
+.customers-order-child2,
+.customers-order-child3 {
+  position: absolute;
+  top: 178px;
+  left: 21px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.customers-order-child2,
+.customers-order-child3 {
+  top: 250px;
+  left: 24px;
+}
+.customers-order-child3 {
+  top: 462px;
+  left: 30px;
+}
+.customers-order-child4,
+.customers-order-child5,
+.customers-order-child6 {
+  position: absolute;
+  top: 535px;
+  left: 32px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.customers-order-child5,
+.customers-order-child6 {
+  top: 321px;
+  left: 24px;
+}
+.customers-order-child6 {
+  top: 391px;
+}
+.shirt1 {
+  position: absolute;
+  top: 205px;
+  left: 131px;
+}
+.electronics2,
+.sharee1 {
+  position: absolute;
+  top: 274px;
+  left: 125px;
+}
+.electronics2 {
+  top: 346px;
+  left: 112px;
+}
+.products2,
+.t-shirt4,
+.tops1 {
+  position: absolute;
+  top: 412px;
+  left: 116px;
+}
+.t-shirt4,
+.tops1 {
+  top: 481px;
+  left: 128px;
+}
+.tops1 {
+  top: 560px;
+  left: 134px;
+}
+.customers-order-child7 {
+  position: absolute;
+  top: 268px;
+  left: 238px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.customers-order-child10,
+.customers-order-child11,
+.customers-order-child12,
+.customers-order-child8,
+.customers-order-child9 {
+  position: absolute;
+  top: 208px;
+  left: 238px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.customers-order-child10,
+.customers-order-child11,
+.customers-order-child12,
+.customers-order-child9 {
+  top: 337px;
+}
+.customers-order-child10,
+.customers-order-child11,
+.customers-order-child12 {
+  top: 407px;
+}
+.customers-order-child11,
+.customers-order-child12 {
+  top: 476px;
+}
+.customers-order-child12 {
+  top: 551px;
+}
+.details3,
+.details4,
+.details5,
+.details6,
+.details7,
+.details8 {
+  position: absolute;
+  top: 271px;
+  left: 248px;
+  color: var(--color-white);
+}
+.details4,
+.details5,
+.details6,
+.details7,
+.details8 {
+  top: 339px;
+}
+.details5,
+.details6,
+.details7,
+.details8 {
+  top: 410px;
+}
+.details6,
+.details7,
+.details8 {
+  top: 478px;
+}
+.details7,
+.details8 {
+  top: 551px;
+}
+.details8 {
+  top: 211px;
+}
+.vector-icon51 {
+  position: absolute;
+  height: 2.85%;
+  width: 5.87%;
+  top: 94.75%;
+  right: 9.87%;
+  bottom: 2.4%;
+  left: 84.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.customers-order-child13 {
+  position: absolute;
+  top: 83px;
+  left: 264px;
+  width: 28px;
+  height: 27px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.customers-order-child14 {
+  position: absolute;
+  top: 105px;
+  left: 280px;
+  width: 12px;
+  height: 11px;
+}
+.vector-icon52,
+.vector-icon53,
+.vector-icon54 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon52 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94.75%;
+  right: 78.88%;
+  bottom: 1.62%;
+  left: 14.67%;
+  cursor: pointer;
+}
+.vector-icon53,
+.vector-icon54 {
+  height: 3.29%;
+  width: 6.67%;
+  top: 12.89%;
+  right: 10.67%;
+  bottom: 83.81%;
+  left: 82.67%;
+}
+.vector-icon54 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94%;
+  right: 45.54%;
+  bottom: 2.37%;
+  left: 48%;
+  cursor: pointer;
+}
+.customers-order {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

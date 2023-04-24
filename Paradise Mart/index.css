@@ -1,0 +1,131 @@
+.div {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+}
+.nd-page-child,
+.nd-page-inner,
+.nd-page-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.nd-page-inner,
+.nd-page-item {
+  top: 42.5px;
+}
+.nd-page-inner {
+  top: 37.5px;
+}
+.paradise-mart {
+  position: absolute;
+  top: 188px;
+  left: calc(50% - 99.5px);
+  text-align: center;
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 280px;
+  left: 133px;
+  background-color: var(--color-gainsboro);
+  width: 144px;
+  height: 29px;
+}
+.user-name {
+  position: absolute;
+  top: 286px;
+  left: 165px;
+  color: var(--color-gray);
+}
+.nd-page-child1 {
+  position: absolute;
+  top: 328px;
+  left: 133px;
+  background-color: var(--color-gainsboro);
+  width: 144px;
+  height: 29px;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 3.75%;
+  width: 5.33%;
+  top: 42.28%;
+  right: 68.53%;
+  bottom: 53.97%;
+  left: 26.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  top: 49.18%;
+  bottom: 47.08%;
+}
+.istockphoto-1029895828-612x612-icon {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.password,
+.sign-up {
+  position: absolute;
+  top: 334px;
+  left: 165px;
+  color: var(--color-gray);
+}
+.sign-up {
+  top: 487px;
+  left: 85px;
+  color: var(--color-peru);
+  cursor: pointer;
+}
+.forgot-password,
+.or {
+  position: absolute;
+  top: 487px;
+  left: 143px;
+}
+.forgot-password {
+  left: 174px;
+  color: var(--color-peru);
+  cursor: pointer;
+}
+.nd-page-child2 {
+  position: absolute;
+  top: 402px;
+  left: 153px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 89px;
+  height: 29px;
+  cursor: pointer;
+}
+.login {
+  position: absolute;
+  top: 408px;
+  left: 179px;
+  color: var(--color-white);
+}
+.nd-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 662px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

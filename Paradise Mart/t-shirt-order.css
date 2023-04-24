@@ -1,0 +1,200 @@
+.div12 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  text-align: left;
+}
+.t-shirt-order-child,
+.t-shirt-order-inner,
+.t-shirt-order-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.t-shirt-order-inner,
+.t-shirt-order-item {
+  top: 42.5px;
+}
+.t-shirt-order-inner {
+  top: 37.5px;
+}
+.paradise-mart6 {
+  position: absolute;
+  top: 104px;
+  left: calc(50% - 147.5px);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.istockphoto-1029895828-612x612-icon6 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.div13 {
+  position: absolute;
+  top: 222px;
+  left: 189px;
+}
+.customer-31,
+.div14 {
+  position: absolute;
+  top: 320px;
+  left: 162px;
+}
+.div14 {
+  left: 288px;
+  color: var(--color-red);
+}
+.vector-icon20 {
+  position: absolute;
+  height: 3%;
+  width: 4.27%;
+  top: 11.69%;
+  right: 15.47%;
+  bottom: 85.31%;
+  left: 80.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div15 {
+  position: absolute;
+  top: 87px;
+  left: 295px;
+  display: inline-block;
+  width: 45px;
+}
+.t-shirt-order-child1 {
+  position: absolute;
+  top: 206px;
+  left: 30px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.div16,
+.t-shirt1 {
+  position: absolute;
+  top: 222px;
+  left: 103px;
+}
+.div16 {
+  top: 225px;
+  left: 290px;
+  color: var(--color-red);
+}
+.t-shirt-order-child2 {
+  position: absolute;
+  top: 308px;
+  left: 86px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.vector-icon21 {
+  position: absolute;
+  height: 4.8%;
+  width: 10.13%;
+  top: 75.86%;
+  right: 46.4%;
+  bottom: 19.34%;
+  left: 43.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.type-t-shirt {
+  position: absolute;
+  top: 399px;
+  left: 119px;
+}
+.color-black,
+.size-xl,
+.vector-icon22 {
+  position: absolute;
+  top: 428px;
+  left: 119px;
+}
+.color-black,
+.vector-icon22 {
+  top: 457px;
+}
+.vector-icon22 {
+  height: 2.85%;
+  width: 5.87%;
+  top: 93.4%;
+  right: 10.13%;
+  bottom: 3.75%;
+  left: 84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.t-shirt-order-child3 {
+  position: absolute;
+  top: 74px;
+  left: 254px;
+  width: 28px;
+  height: 27px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.t-shirt-order-child4 {
+  position: absolute;
+  top: 96px;
+  left: 270px;
+  width: 12px;
+  height: 11px;
+}
+.vector-icon23,
+.vector-icon24 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon23 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 93.4%;
+  right: 84.21%;
+  bottom: 2.97%;
+  left: 9.33%;
+  cursor: pointer;
+}
+.vector-icon24 {
+  height: 3.29%;
+  width: 6.67%;
+  top: 11.54%;
+  right: 38.93%;
+  bottom: 85.16%;
+  left: 54.4%;
+}
+.div17 {
+  position: absolute;
+  top: 88.19px;
+  left: 220px;
+  transform: rotate(-1.19deg);
+  transform-origin: 0 0;
+}
+.t-shirt-order {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

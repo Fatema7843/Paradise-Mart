@@ -1,0 +1,168 @@
+.div1 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+}
+.rd-page-child,
+.rd-page-inner,
+.rd-page-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.rd-page-inner,
+.rd-page-item {
+  top: 42.5px;
+}
+.rd-page-inner {
+  top: 37.5px;
+}
+.paradise-mart1 {
+  position: absolute;
+  top: 115px;
+  left: calc(50% - 94.5px);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.rd-page-child1 {
+  position: absolute;
+  top: 193px;
+  left: 108px;
+  background-color: var(--color-gainsboro);
+  width: 144px;
+  height: 29px;
+}
+.user-name1 {
+  position: absolute;
+  top: 198px;
+  left: 145px;
+}
+.rd-page-child2,
+.rd-page-child3,
+.rectangle-icon {
+  position: absolute;
+  top: 237px;
+  left: 108px;
+  width: 144px;
+  height: 29px;
+}
+.rd-page-child2,
+.rd-page-child3 {
+  top: 329px;
+  left: 106px;
+}
+.rd-page-child3 {
+  top: 282px;
+  left: 108px;
+}
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 3.75%;
+  width: 5.33%;
+  top: 29.09%;
+  right: 77.6%;
+  bottom: 67.17%;
+  left: 17.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon3 {
+  top: 42.43%;
+  right: 78.4%;
+  bottom: 53.82%;
+  left: 16.27%;
+}
+.istockphoto-1029895828-612x612-icon1 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.confirm-password,
+.password1 {
+  position: absolute;
+  top: 335px;
+  left: 118px;
+}
+.password1 {
+  top: 288px;
+  left: 145px;
+}
+.rd-page-child4,
+.rd-page-child5 {
+  position: absolute;
+  top: 425px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 89px;
+  height: 29px;
+  cursor: pointer;
+}
+.rd-page-child5 {
+  left: 198px;
+}
+.login1,
+.signup {
+  position: absolute;
+  top: 432px;
+  left: 106px;
+  color: var(--color-white);
+}
+.signup {
+  top: 431px;
+  left: 224px;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 3.33%;
+  width: 6.67%;
+  top: 35.98%;
+  right: 76.53%;
+  bottom: 60.69%;
+  left: 16.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mail,
+.vector-icon5 {
+  position: absolute;
+  top: 243px;
+  left: 160px;
+}
+.vector-icon5 {
+  height: 3%;
+  width: 6.67%;
+  top: 49.33%;
+  right: 77.07%;
+  bottom: 47.68%;
+  left: 16.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rd-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}

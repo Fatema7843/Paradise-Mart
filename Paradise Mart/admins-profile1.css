@@ -1,0 +1,184 @@
+.div65 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  text-align: left;
+}
+.admins-profile-child6,
+.admins-profile-child7,
+.admins-profile-child8 {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.admins-profile-child7,
+.admins-profile-child8 {
+  top: 42.5px;
+}
+.admins-profile-child8 {
+  top: 37.5px;
+}
+.welcome-to-paradise {
+  position: absolute;
+  top: 113px;
+  left: calc(50% - 99.5px);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.admins-profile-child9,
+.istockphoto-1029895828-612x612-icon19 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.admins-profile-child9 {
+  top: 158px;
+  left: 156px;
+  width: 58px;
+  height: 59px;
+}
+.captain-jack-sparrow2 {
+  position: absolute;
+  top: 231px;
+  left: 97px;
+}
+.admins-profile-child10 {
+  position: absolute;
+  top: 456px;
+  left: 259px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 105px;
+  height: 29px;
+  cursor: pointer;
+}
+.name-captain-jack1 {
+  position: absolute;
+  top: 318px;
+  left: 35px;
+}
+.current-position-admin1 {
+  position: absolute;
+  top: 347px;
+  left: 33px;
+}
+.address-abc,
+.credit-card-number {
+  position: absolute;
+  top: 377px;
+  left: 35px;
+}
+.credit-card-number {
+  top: 408px;
+}
+.contact-number-01101102,
+.update-profile2 {
+  position: absolute;
+  top: 439px;
+  left: 35px;
+}
+.update-profile2 {
+  top: 462px;
+  left: 268px;
+  color: var(--color-white);
+}
+.vector-icon96,
+.vector-icon97 {
+  position: absolute;
+  height: 2.85%;
+  width: 5.87%;
+  top: 94.3%;
+  right: 7.2%;
+  bottom: 2.85%;
+  left: 86.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon97 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94%;
+  right: 79.41%;
+  bottom: 2.37%;
+  left: 14.13%;
+  cursor: pointer;
+}
+.admins-profile-child11,
+.admins-profile-child12,
+.admins-profile-child13 {
+  position: absolute;
+  top: 568px;
+  left: 17px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 105px;
+  height: 29px;
+  cursor: pointer;
+}
+.admins-profile-child12,
+.admins-profile-child13 {
+  left: 140px;
+}
+.admins-profile-child13 {
+  left: 262px;
+}
+.customers-info1,
+.products-info1,
+.sellers-info1 {
+  position: absolute;
+  top: 574px;
+  left: 36px;
+  color: var(--color-white);
+}
+.customers-info1,
+.products-info1 {
+  left: 148px;
+}
+.customers-info1 {
+  left: 262px;
+}
+.vector-icon98,
+.vector-icon99 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon98 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94.45%;
+  right: 45.28%;
+  bottom: 1.92%;
+  left: 48.27%;
+  cursor: pointer;
+}
+.vector-icon99 {
+  height: 3.29%;
+  width: 6.67%;
+  top: 11.24%;
+  right: 11.73%;
+  bottom: 85.46%;
+  left: 81.6%;
+}
+.admins-profile1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

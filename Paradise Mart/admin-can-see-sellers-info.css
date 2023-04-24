@@ -1,0 +1,352 @@
+.div69 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  text-align: left;
+}
+.admin-can-see-sellers-info-child,
+.admin-can-see-sellers-info-inner,
+.admin-can-see-sellers-info-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.admin-can-see-sellers-info-inner,
+.admin-can-see-sellers-info-item {
+  top: 42.5px;
+}
+.admin-can-see-sellers-info-inner {
+  top: 37.5px;
+}
+.paradise-mart19 {
+  position: absolute;
+  top: 101px;
+  left: calc(50% - 152.5px);
+  color: var(--color-black);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.sellers-information {
+  position: absolute;
+  top: 139px;
+  left: 107px;
+  color: var(--color-peru);
+  display: inline-block;
+  width: 161px;
+}
+.istockphoto-1029895828-612x612-icon22 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.admin-can-see-sellers-info-child1,
+.admin-can-see-sellers-info-child2 {
+  position: absolute;
+  top: 178px;
+  left: 21px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.admin-can-see-sellers-info-child2 {
+  top: 250px;
+  left: 24px;
+}
+.admin-can-see-sellers-info-child3,
+.admin-can-see-sellers-info-child4 {
+  position: absolute;
+  top: 462px;
+  left: 30px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.admin-can-see-sellers-info-child4 {
+  top: 535px;
+  left: 32px;
+}
+.admin-can-see-sellers-info-child5,
+.admin-can-see-sellers-info-child6 {
+  position: absolute;
+  top: 321px;
+  left: 24px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.admin-can-see-sellers-info-child6 {
+  top: 391px;
+}
+.jack-sparrow-13,
+.jack-sparrow-2 {
+  position: absolute;
+  top: 205px;
+  left: 97px;
+  color: var(--color-black);
+}
+.jack-sparrow-2 {
+  top: 274px;
+}
+.jack-sparrow-3,
+.jack-sparrow-4,
+.jack-sparrow-52,
+.jack-sparrow-6 {
+  position: absolute;
+  top: 346px;
+  left: 97px;
+  color: var(--color-black);
+}
+.jack-sparrow-4,
+.jack-sparrow-52,
+.jack-sparrow-6 {
+  top: 412px;
+}
+.jack-sparrow-52,
+.jack-sparrow-6 {
+  top: 481px;
+  left: 99px;
+}
+.jack-sparrow-6 {
+  top: 560px;
+}
+.admin-can-see-sellers-info-child7,
+.admin-can-see-sellers-info-child8 {
+  position: absolute;
+  top: 201px;
+  left: 238px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.admin-can-see-sellers-info-child8 {
+  top: 139px;
+  left: 284px;
+}
+.add {
+  position: absolute;
+  top: 142px;
+  left: 300px;
+}
+.admin-can-see-sellers-info-child10,
+.admin-can-see-sellers-info-child11,
+.admin-can-see-sellers-info-child12,
+.admin-can-see-sellers-info-child9 {
+  position: absolute;
+  top: 268px;
+  left: 238px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.admin-can-see-sellers-info-child10,
+.admin-can-see-sellers-info-child11,
+.admin-can-see-sellers-info-child12 {
+  top: 337px;
+}
+.admin-can-see-sellers-info-child11,
+.admin-can-see-sellers-info-child12 {
+  top: 407px;
+}
+.admin-can-see-sellers-info-child12 {
+  top: 476px;
+  cursor: pointer;
+}
+.admin-can-see-sellers-info-child13,
+.admin-can-see-sellers-info-child14,
+.admin-can-see-sellers-info-child15 {
+  position: absolute;
+  top: 548px;
+  left: 238px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.admin-can-see-sellers-info-child14,
+.admin-can-see-sellers-info-child15 {
+  top: 268px;
+  left: 306px;
+}
+.admin-can-see-sellers-info-child15 {
+  top: 337px;
+}
+.admin-can-see-sellers-info-child16,
+.admin-can-see-sellers-info-child17,
+.admin-can-see-sellers-info-child18,
+.admin-can-see-sellers-info-child19 {
+  position: absolute;
+  top: 407px;
+  left: 306px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.admin-can-see-sellers-info-child17,
+.admin-can-see-sellers-info-child18,
+.admin-can-see-sellers-info-child19 {
+  top: 476px;
+}
+.admin-can-see-sellers-info-child18,
+.admin-can-see-sellers-info-child19 {
+  top: 202px;
+  left: 307px;
+}
+.admin-can-see-sellers-info-child19 {
+  top: 548px;
+  left: 306px;
+}
+.details32,
+.details33,
+.message1 {
+  position: absolute;
+  top: 205px;
+  left: 248px;
+}
+.details33,
+.message1 {
+  top: 271px;
+}
+.message1 {
+  left: 310px;
+}
+.details34,
+.message2 {
+  position: absolute;
+  top: 339px;
+  left: 248px;
+}
+.message2 {
+  left: 306px;
+}
+.details35,
+.details36,
+.message3 {
+  position: absolute;
+  top: 410px;
+  left: 248px;
+}
+.details36,
+.message3 {
+  left: 309px;
+}
+.details36 {
+  top: 478px;
+  left: 248px;
+}
+.details37,
+.message4 {
+  position: absolute;
+  top: 480px;
+  left: 310px;
+}
+.details37 {
+  top: 548px;
+  left: 248px;
+}
+.message5,
+.message6 {
+  position: absolute;
+  top: 549px;
+  left: 307px;
+}
+.message6 {
+  top: 203px;
+  left: 310px;
+}
+.admin-can-see-sellers-info-child20 {
+  position: absolute;
+  top: 506px;
+  left: 71px;
+  width: 17px;
+  height: 15px;
+}
+.admin-can-see-sellers-info-child21,
+.admin-can-see-sellers-info-child22 {
+  position: absolute;
+  top: 365px;
+  left: 66px;
+  width: 17px;
+  height: 15px;
+}
+.admin-can-see-sellers-info-child22 {
+  top: 295px;
+}
+.vector-icon108,
+.vector-icon109 {
+  position: absolute;
+  height: 2.85%;
+  width: 5.87%;
+  top: 93.7%;
+  right: 9.6%;
+  bottom: 3.45%;
+  left: 84.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon109 {
+  height: 4.83%;
+  width: 8.59%;
+  top: 92.95%;
+  right: 78.88%;
+  bottom: 2.22%;
+  left: 12.53%;
+  cursor: pointer;
+}
+.admin-can-see-sellers-info-child23 {
+  position: absolute;
+  top: 73px;
+  left: 278px;
+  width: 28px;
+  height: 27px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vector-icon110,
+.vector-icon111 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon110 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 93.4%;
+  right: 41.28%;
+  bottom: 2.97%;
+  left: 52.27%;
+  cursor: pointer;
+}
+.vector-icon111 {
+  height: 3.29%;
+  width: 6.67%;
+  top: 11.24%;
+  right: 6.13%;
+  bottom: 85.46%;
+  left: 87.2%;
+}
+.admin-can-see-sellers-info {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

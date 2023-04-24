@@ -1,0 +1,201 @@
+.div66 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  text-align: left;
+}
+.customer-profile-child,
+.customer-profile-inner,
+.customer-profile-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.customer-profile-inner,
+.customer-profile-item {
+  top: 42.5px;
+}
+.customer-profile-inner {
+  top: 37.5px;
+}
+.welcome-to-paradise1 {
+  position: absolute;
+  top: 113px;
+  left: calc(50% - 99.5px);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.istockphoto-1029895828-612x612-icon20 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.jack-sparrow-11 {
+  position: absolute;
+  top: 231px;
+  left: 142px;
+}
+.customer-profile-child1 {
+  position: absolute;
+  top: 207.5px;
+  left: 464px;
+  width: 17px;
+  height: 15px;
+}
+.customer-profile-child2 {
+  position: absolute;
+  top: 511px;
+  left: 259px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 105px;
+  height: 29px;
+  cursor: pointer;
+}
+.customer-profile-child3 {
+  top: 471px;
+}
+.customer-profile-child3,
+.customer-profile-child4,
+.customer-profile-child5 {
+  position: absolute;
+  left: 259px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 105px;
+  height: 29px;
+}
+.customer-profile-child4 {
+  top: 556px;
+  cursor: pointer;
+}
+.customer-profile-child5 {
+  top: 601px;
+}
+.vector-icon100 {
+  position: absolute;
+  height: 2.7%;
+  width: 4.53%;
+  top: 91%;
+  right: 26.4%;
+  bottom: 6.3%;
+  left: 69.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.help-center1 {
+  position: absolute;
+  top: 608px;
+  left: 276px;
+  color: var(--color-white);
+}
+.vector-icon101 {
+  position: absolute;
+  height: 3%;
+  width: 4.53%;
+  top: 83.96%;
+  right: 26.4%;
+  bottom: 13.04%;
+  left: 69.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.order3 {
+  position: absolute;
+  top: 561px;
+  left: 297px;
+  color: var(--color-white);
+}
+.current-position-kichu,
+.name-jack-sparrow1 {
+  position: absolute;
+  top: 315px;
+  left: 35px;
+}
+.current-position-kichu {
+  top: 346px;
+}
+.address-abc1,
+.credit-card-number1 {
+  position: absolute;
+  top: 377px;
+  left: 35px;
+}
+.credit-card-number1 {
+  top: 408px;
+}
+.contact-number-01101103,
+.update-profile3 {
+  position: absolute;
+  top: 439px;
+  left: 35px;
+}
+.update-profile3 {
+  top: 477px;
+  left: 268px;
+  color: var(--color-white);
+}
+.vector-icon102,
+.vector-icon103 {
+  position: absolute;
+  height: 3.29%;
+  width: 6.67%;
+  top: 84.56%;
+  right: 72.27%;
+  bottom: 12.15%;
+  left: 21.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon103 {
+  height: 2.85%;
+  width: 5.87%;
+  top: 10.49%;
+  right: 13.87%;
+  bottom: 86.66%;
+  left: 80.27%;
+}
+.details28 {
+  position: absolute;
+  top: 516px;
+  left: 284px;
+  color: var(--color-white);
+}
+.customer-profile-child6 {
+  position: absolute;
+  top: 153px;
+  left: 160px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.customer-profile-child7 {
+  position: absolute;
+  top: 197px;
+  left: 201px;
+  width: 17px;
+  height: 15px;
+}
+.customer-profile {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

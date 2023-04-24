@@ -1,0 +1,164 @@
+.div70 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  text-align: left;
+}
+.adminhome-child,
+.adminhome-inner,
+.adminhome-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.adminhome-inner,
+.adminhome-item {
+  top: 42.5px;
+}
+.adminhome-inner {
+  top: 37.5px;
+}
+.welcome-to-paradise3 {
+  position: absolute;
+  top: 85px;
+  left: calc(50% - 90.5px);
+  color: var(--color-black);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.istockphoto-1029895828-612x612-icon23,
+.png-transparent-line-chart-mar-icon {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.png-transparent-line-chart-mar-icon {
+  top: 259px;
+  width: 342px;
+  height: 149px;
+}
+.adminhome-child1,
+.adminhome-child2,
+.adminhome-child3 {
+  position: absolute;
+  left: 61px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 105px;
+  height: 29px;
+}
+.adminhome-child1 {
+  top: 511px;
+  cursor: pointer;
+}
+.adminhome-child2,
+.adminhome-child3 {
+  top: 571px;
+}
+.adminhome-child3 {
+  left: 197px;
+  cursor: pointer;
+}
+.products-info2,
+.profile {
+  position: absolute;
+  top: 577px;
+  left: 228px;
+}
+.products-info2 {
+  left: 69px;
+}
+.adminhome-child4 {
+  position: absolute;
+  top: 511px;
+  left: 197px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 105px;
+  height: 29px;
+}
+.business-overview {
+  position: absolute;
+  top: 190px;
+  left: 114px;
+  color: var(--color-black);
+}
+.customers-info2,
+.sellers-info2 {
+  position: absolute;
+  top: 517px;
+  left: 76px;
+}
+.customers-info2 {
+  left: 197px;
+}
+.vector-icon112,
+.vector-icon113,
+.vector-icon114 {
+  position: absolute;
+  height: 2.85%;
+  width: 5.87%;
+  top: 94.9%;
+  right: 16%;
+  bottom: 2.25%;
+  left: 78.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon113,
+.vector-icon114 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94.6%;
+  right: 77.28%;
+  bottom: 1.77%;
+  left: 16.27%;
+  cursor: pointer;
+}
+.vector-icon114 {
+  right: 46.34%;
+  left: 47.2%;
+}
+.adminhome-child5 {
+  position: absolute;
+  top: 125px;
+  left: 300px;
+  width: 34px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vector-icon115 {
+  position: absolute;
+  height: 3.29%;
+  width: 6.67%;
+  top: 12.89%;
+  right: 7.73%;
+  bottom: 83.81%;
+  left: 85.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.adminhome {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

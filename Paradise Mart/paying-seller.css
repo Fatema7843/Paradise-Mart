@@ -1,0 +1,192 @@
+.div2 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  text-align: left;
+}
+.paying-seller-child,
+.paying-seller-inner,
+.paying-seller-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.paying-seller-inner,
+.paying-seller-item {
+  top: 42.5px;
+}
+.paying-seller-inner {
+  top: 37.5px;
+}
+.paradise-mart2 {
+  position: absolute;
+  top: 85px;
+  left: calc(50% - 104.5px);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.istockphoto-1029895828-612x612-icon2 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.paying-seller-child1 {
+  position: absolute;
+  top: 380px;
+  left: 174px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.paying-seller-child2,
+.paying-seller-child3 {
+  position: absolute;
+  top: 305px;
+  left: 130px;
+  width: 144px;
+  height: 29px;
+}
+.paying-seller-child3 {
+  top: 264px;
+}
+.payment {
+  position: absolute;
+  top: 310px;
+  left: 170px;
+  color: var(--color-gray);
+}
+.vector-icon6 {
+  position: absolute;
+  height: 3.6%;
+  width: 5.87%;
+  top: 46.78%;
+  right: 68.27%;
+  bottom: 49.63%;
+  left: 25.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.confirm,
+.order-details {
+  position: absolute;
+  top: 380px;
+  left: 179px;
+  color: var(--color-white);
+}
+.order-details {
+  top: 125px;
+  left: 102px;
+  color: var(--color-peru);
+  display: inline-block;
+  width: 161px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 58px;
+  left: 269px;
+  width: 28px;
+  height: 27px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.paying-seller-child4 {
+  position: absolute;
+  top: 79px;
+  left: 286px;
+  width: 12px;
+  height: 11px;
+}
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  height: 3.29%;
+  width: 6.67%;
+  top: 9.15%;
+  right: 9.6%;
+  bottom: 87.56%;
+  left: 83.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon8 {
+  height: 3.33%;
+  top: 40.18%;
+  right: 67.47%;
+  bottom: 56.49%;
+  left: 25.87%;
+}
+.paying-seller-child5 {
+  position: absolute;
+  top: 162px;
+  left: 85px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.shampoo,
+.sizequantity {
+  position: absolute;
+  top: 204px;
+  left: 147px;
+}
+.sizequantity {
+  top: 270px;
+  left: 151px;
+  color: var(--color-gray);
+}
+.ml,
+.tk {
+  position: absolute;
+  top: 204px;
+  left: 227px;
+}
+.tk {
+  left: 287px;
+}
+.vector-icon10,
+.vector-icon9 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon9 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 92.65%;
+  right: 82.61%;
+  bottom: 3.72%;
+  left: 10.93%;
+  cursor: pointer;
+}
+.vector-icon10 {
+  height: 2.85%;
+  width: 5.87%;
+  top: 92.95%;
+  right: 20.53%;
+  bottom: 4.2%;
+  left: 73.6%;
+}
+.paying-seller {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./rd-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="rd-page">
+      <div class="div1">2:30</div>
+      <div class="rd-page-child"></div>
+      <div class="rd-page-item"></div>
+      <div class="rd-page-inner"></div>
+      <div class="paradise-mart1">PARADISE MART</div>
+      <div class="rd-page-child1"></div>
+      <div class="user-name1">user name</div>
+      <img class="rectangle-icon" alt="" src="./public/rectangle-2.svg" />
+
+      <img class="rd-page-child2" alt="" src="./public/rectangle-2.svg" />
+
+      <img class="rd-page-child3" alt="" src="./public/rectangle-2.svg" />
+
+      <img class="vector-icon2" alt="" src="./public/vector2.svg" />
+
+      <img class="vector-icon3" alt="" src="./public/vector3.svg" />
+
+      <img
+        class="istockphoto-1029895828-612x612-icon1"
+        alt=""
+        src="./public/istockphoto1029895828612x612-2@2x.png"
+      />
+
+      <div class="confirm-password">confirm password</div>
+      <div class="password1">password</div>
+      <div class="rd-page-child4" id="rectangle4"></div>
+      <div class="rd-page-child5" id="rectangle5"></div>
+      <div class="login1">Login</div>
+      <div class="signup">SignUp</div>
+      <img class="vector-icon4" alt="" src="./public/vector4.svg" />
+
+      <div class="mail">mail</div>
+      <img class="vector-icon5" alt="" src="./public/vector5.svg" />
+    </div>
+
+    <script>
+      var rectangle4 = document.getElementById("rectangle4");
+      if (rectangle4) {
+        rectangle4.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var rectangle5 = document.getElementById("rectangle5");
+      if (rectangle5) {
+        rectangle5.addEventListener("click", function (e) {
+          window.location.href = "./admin-home.html";
+        });
+      }
+      </script>
+  </body>
+</html>

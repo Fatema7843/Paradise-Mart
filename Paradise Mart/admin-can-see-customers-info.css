@@ -1,0 +1,251 @@
+.div58 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  text-align: left;
+}
+.admin-can-see-customers-info-child,
+.admin-can-see-customers-info-inner,
+.admin-can-see-customers-info-item {
+  position: absolute;
+  top: 33.5px;
+  left: 305.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.admin-can-see-customers-info-inner,
+.admin-can-see-customers-info-item {
+  top: 42.5px;
+}
+.admin-can-see-customers-info-inner {
+  top: 37.5px;
+}
+.paradise-mart14 {
+  position: absolute;
+  top: 101px;
+  left: calc(50% - 152.5px);
+  display: inline-block;
+  width: 209px;
+  height: 12px;
+}
+.customers-information {
+  position: absolute;
+  top: 139px;
+  left: 107px;
+  color: var(--color-peru);
+  display: inline-block;
+  width: 161px;
+}
+.istockphoto-1029895828-612x612-icon14 {
+  position: absolute;
+  top: 70px;
+  left: 18px;
+  width: 70px;
+  height: 55px;
+  object-fit: cover;
+}
+.admin-can-see-customers-info-child1,
+.admin-can-see-customers-info-child2 {
+  position: absolute;
+  top: 178px;
+  left: 21px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.admin-can-see-customers-info-child2 {
+  top: 250px;
+  left: 24px;
+}
+.admin-can-see-customers-info-child3,
+.admin-can-see-customers-info-child4 {
+  position: absolute;
+  top: 462px;
+  left: 30px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.admin-can-see-customers-info-child4 {
+  top: 535px;
+  left: 32px;
+}
+.admin-can-see-customers-info-child5,
+.admin-can-see-customers-info-child6 {
+  position: absolute;
+  top: 321px;
+  left: 24px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.admin-can-see-customers-info-child6 {
+  top: 391px;
+}
+.customer-1,
+.customer-2 {
+  position: absolute;
+  top: 205px;
+  left: 110px;
+}
+.customer-2 {
+  top: 274px;
+}
+.customer-33,
+.customer-4 {
+  position: absolute;
+  top: 346px;
+  left: 109px;
+}
+.customer-4 {
+  top: 412px;
+  left: 107px;
+}
+.customer-5,
+.customer-61 {
+  position: absolute;
+  top: 481px;
+  left: 112px;
+}
+.customer-61 {
+  top: 560px;
+  left: 111px;
+}
+.admin-can-see-customers-info-child7,
+.admin-can-see-customers-info-child8,
+.admin-can-see-customers-info-child9 {
+  position: absolute;
+  top: 201px;
+  left: 238px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.admin-can-see-customers-info-child8,
+.admin-can-see-customers-info-child9 {
+  top: 268px;
+}
+.admin-can-see-customers-info-child9 {
+  top: 337px;
+  cursor: pointer;
+}
+.admin-can-see-customers-info-child10,
+.admin-can-see-customers-info-child11,
+.admin-can-see-customers-info-child12 {
+  position: absolute;
+  top: 407px;
+  left: 238px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru);
+  width: 63px;
+  height: 23px;
+}
+.admin-can-see-customers-info-child11,
+.admin-can-see-customers-info-child12 {
+  top: 476px;
+}
+.admin-can-see-customers-info-child12 {
+  top: 548px;
+}
+.details21 {
+  position: absolute;
+  top: 205px;
+  left: 248px;
+  color: var(--color-white);
+}
+.details22,
+.details23,
+.details24,
+.details25,
+.details26 {
+  position: absolute;
+  top: 271px;
+  left: 248px;
+  color: var(--color-white);
+}
+.details23,
+.details24,
+.details25,
+.details26 {
+  top: 339px;
+}
+.details24,
+.details25,
+.details26 {
+  top: 410px;
+}
+.details25,
+.details26 {
+  top: 478px;
+}
+.details26 {
+  top: 548px;
+}
+.admin-can-see-customers-info-child13 {
+  position: absolute;
+  top: 74px;
+  left: 278px;
+  width: 28px;
+  height: 27px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vector-icon64 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94%;
+  right: 79.41%;
+  bottom: 2.37%;
+  left: 14.13%;
+  cursor: pointer;
+}
+.vector-icon64,
+.vector-icon65,
+.vector-icon66,
+.vector-icon67 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon65 {
+  height: 3.63%;
+  width: 6.46%;
+  top: 94%;
+  right: 47.41%;
+  bottom: 2.37%;
+  left: 46.13%;
+  cursor: pointer;
+}
+.vector-icon66,
+.vector-icon67 {
+  height: 2.85%;
+  width: 5.87%;
+  top: 94.75%;
+  right: 18.4%;
+  bottom: 2.4%;
+  left: 75.73%;
+}
+.vector-icon67 {
+  height: 3.29%;
+  width: 6.67%;
+  top: 11.24%;
+  right: 5.6%;
+  bottom: 85.46%;
+  left: 87.73%;
+}
+.admin-can-see-customers-info {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
